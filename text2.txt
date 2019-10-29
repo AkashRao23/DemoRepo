@@ -5,7 +5,12 @@
 <body>
 yeh toh bss copy krdia 
 ab remote main edit krdia 
+<<<<<<< HEAD
 line 1<br><br>
+=======
+bhai 5 line add krni hai<br><br>
+line1<br><br>
+>>>>>>> 09128b1f8d2e97d12ae713ef25fa2999d8347552
 line 2<br><br>
 line 3<br><br>
 line 4<br><br>
