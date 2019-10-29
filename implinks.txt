@@ -1,5 +1,0 @@
-mvn sonar:sonar -Dsonar.projectKey=helloworld -Dsonar.host.url=http://localhost:9000 -Dsonar.login=0e9cfb53d5aa17dffa36e64df2996babe6674ce1
-
-
-
-https://github.com/AkashRao23/DemoRepo.git
